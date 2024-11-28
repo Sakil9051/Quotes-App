@@ -32,7 +32,7 @@ Ensure you have the following software installed:
 1. **Clone the repository**:
    Download the project files by running:
    ```bash
-   git clone <https://github.com/Sakil9051/Quotes-App.git>
+   git clone https://github.com/Sakil9051/Quotes-App.git
    cd Quotes-App
    ```
 
